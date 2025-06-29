@@ -1,4 +1,4 @@
-# Yuigaoka_6th_hiyoko_schedule
+# Yuigaoka_1stG_CtS_schedule
 
 ### What is this?👀
 

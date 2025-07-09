@@ -35,7 +35,7 @@
 - **already_applied?** : yes.
 - **ticket_hit?** : yes.
 - **need_an_additional_application?** : no.
-- **money_exchange** : I will need to pay 12,935 yen to tk (@TKDLiella).
+- **money_exchange** : I have already paid 12,935 yen to tk (@TKDLiella).
 
 ## day2_serial_and_companion📰
 
@@ -48,7 +48,7 @@
 - **day2_fellow_travellers** : me(@otenkigirl_exe),anko_takuzo(@ankotakuzo),tk(@TKDLiella),MaRASa(@MaRASa_MIA)
 - **ticket_hit?** : yes.
 - **need_an_additional_application?** : no.
-- **money_exchange** : I will need to pay 12,935 yen to tk (@TKDLiella).
+- **money_exchange** : I have already paid 12,935 yen to tk (@TKDLiella).
 
 # 30_summary_of_serial_and_companion💰
 

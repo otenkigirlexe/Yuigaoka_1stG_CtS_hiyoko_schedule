@@ -28,9 +28,9 @@
 - **day3_total_number_of_applications** : undecided.
 - **day3_fellow_travellers** : me(@otenkigirl_exe),anko_takuzo(@ankotakuzo),tk(@TKDLiella),MaRASa(@MaRASa_MIA)
 - **already_applied?** : yes.
-- **ticket_hit?** : undecided.
-- **need_an_additional_application?** : undecided.
-- **money_exchange** : undecided.
+- **ticket_hit?** : yes.
+- **need_an_additional_application?** : no.
+- **money_exchange** : I will need to pay 14,435 yen to tk (@TKDLiella).
 
 # 30_summary_of_serial_and_companion💰
 
